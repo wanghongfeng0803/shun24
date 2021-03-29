@@ -1,2 +1,1 @@
-
-class
+number1
